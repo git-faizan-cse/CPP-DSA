@@ -11,9 +11,9 @@ int main(){
         
         newArr[j] = arr[i];
 
-            cout << newArr[j];
-            cout << arr[i];
-            cout << endl;
+            // cout << newArr[j];
+            // cout << arr[i];
+            // cout << endl;
 
         j++;
 
