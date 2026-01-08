@@ -6,7 +6,7 @@ using namespace std;
 
 class Person{
   public:
-    void show(int x){
+    virtual void show(int x){
         cout << x << endl;
         
     }
